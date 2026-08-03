@@ -1,3 +1,5 @@
-int main(){
-  return 5;
+#include<stdio.h> 
+ int main(){
+  printf("HI");
+  return 0;
 }
