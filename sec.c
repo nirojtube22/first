@@ -1,3 +1,5 @@
+#include<stdio.h>
 int main(){
- return 42;
+ printf("My name is Niroj Gamal");
+ return 0;
 }
