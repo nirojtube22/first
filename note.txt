@@ -1,15 +1,14 @@
 Date 08/14/2026 saun 29 (Saleena ko birthday)
 
 writing notes
-cmd (dir, mkdir, cd .., cd dirname, cd "path", start ., start chrome, open notepad, filename, notepad file.txt,
+cmd (dir, mkdir, cd .., cd dirname, cd "path", start ., start chrome, open notepad, filename, notepad file.txt, start shell:recyclebinfolder, del filename
 
 
-git (git init, git status, git add ., git commit -m " message)
+git (git init, git status, git add ., git commit -m " message, git push origin)
 
 c
 {
 	int main(){
 		int x= 1, y=2;
-		int z= x+y;
-		return z;
-}	
+		return x+y;
+}		
